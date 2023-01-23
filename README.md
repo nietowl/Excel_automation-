@@ -1,2 +1,2 @@
 # Excel_automation-
-Scripts In python language to auto mate some basic and repitated tasks
+Scripts In python language to automate some basic and repitated tasks
